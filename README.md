@@ -1,36 +1,52 @@
-# 🍕 Pizza Sales Dashboard – SQL + Excel Analytics
 
-This project showcases a dynamic data analytics dashboard built using **Excel** and powered by **SQL queries**. It analyzes pizza sales data to uncover key business insights, including revenue trends, customer behavior, and product performance.
+# 🍕 Pizza Sales Dashboard - Data Analytics Project
 
-## 📌 Features
-- Total Revenue, Orders, Customers, and Average Order Value
-- Daily and Monthly Order Trends
-- Sales breakdown by Pizza Category and Size
-- Best and Worst Selling Pizzas by Revenue, Quantity, and Orders
-- Interactive charts: bar graphs, pie charts, and KPI cards
+## 📌 Project Overview
+This project focuses on building an **interactive sales dashboard** to analyze pizza sales performance and generate valuable business insights.  
+The dashboard replicates a **real-world business case** where management requires data-driven insights for decision-making.
 
-## 🛠️ Tech Stack
-- **Excel** for dashboard creation and visualization
-- **SQL** for data extraction and transformation
-- **Power BI** (optional) for advanced reporting
+## 🎯 Objectives
+- Track overall business performance using KPIs.  
+- Analyze sales trends by day, month, category, and size.  
+- Identify best and worst-selling pizzas to improve strategy.  
 
-## 📊 Use Case
-Ideal for retail businesses seeking to:
-- Monitor sales performance
-- Identify top-selling products
-- Optimize inventory and marketing strategies
+## 📊 Key KPIs
+- **Total Revenue:** 694.33K  
+- **Total Orders:** 18K  
+- **Total Pizzas Sold:** 42K  
+- **Average Order Value:** 38.34  
+- **Average Pizzas per Order:** 2.32  
 
-## 📁 Files Included
-- Raw sales data (Excel format)
-- SQL scripts for data cleaning and aggregation
-- Final dashboard (Excel or Power BI)
+## 🔎 Business Insights
+- Peak sales occur on **Friday and Saturday evenings**.  
+- **July and January** show the highest number of orders.  
+- **Classic Pizzas** contribute the most to sales.  
+- **Large-sized pizzas** generate maximum revenue.  
+- **The Thai Chicken Pizza** is the top revenue contributor.  
+- **The Brie Carre Pizza** is the lowest-selling pizza.  
 
-## 🚀 Getting Started
-1. Clone the repository
-2. Load the dataset into Excel
-3. Run SQL queries to prepare data
-4. Use pivot tables and charts to build the dashboard
+## 🛠 Tools & Technologies Used
+- **Power BI** – Dashboard & Visualization  
+- **SQL** – Data Extraction & Preparation  
+- **Excel** – Data Cleaning & Transformation  
 
-## 📬 Contact
-Created by **Yashraj Rakibe**  
-For queries or collaboration, feel free to reach out via GitHub or LinkedIn.
+## 📂 Repository Structure
+- `Data/` – Contains raw and cleaned datasets.  
+- `SQL/` – SQL scripts for querying and preprocessing.  
+- `Dashboard/` – Power BI dashboard files (.pbix).  
+- `Reports/` – Screenshots and documentation of insights.  
+
+## 🚀 How to Use
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yashrajrakibe18/Data-Analytics-Dashboard.git
+   ```
+2. Open the SQL scripts to create and query the database.  
+3. Use Excel for any additional cleaning steps if required.  
+4. Open the `.pbix` file in Power BI Desktop to explore the dashboard.  
+
+## 📈 Conclusion
+This project demonstrates how **data analytics and business intelligence** can transform raw sales data into actionable insights, enabling businesses to **optimize strategy, identify growth opportunities, and enhance profitability**.
+
+---
+🔗 **GitHub Repository:** [Pizza Sales Dashboard](https://github.com/yashrajrakibe18/Data-Analytics-Dashboard.git)
