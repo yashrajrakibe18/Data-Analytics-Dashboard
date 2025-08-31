@@ -32,5 +32,5 @@ Ideal for retail businesses seeking to:
 4. Use pivot tables and charts to build the dashboard
 
 ## 📬 Contact
-Created by **Yashraj**  
+Created by **Yashraj Rakibe**  
 For queries or collaboration, feel free to reach out via GitHub or LinkedIn.
